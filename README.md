@@ -57,6 +57,6 @@ $ npm start
 ```
 
 # Find me here
-* https://www.linkedin.com/in/amulyaparab/
-* https://twitter.com/AmulyaParab
+* https://www.linkedin.com/in/sidrahussain-123/
+
 
